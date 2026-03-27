@@ -144,13 +144,6 @@ gcloud run services delete zoo-guide-agent
 
 ---
 
-## 📝 Author
-
-**Smitha Kolan**
-GenAI Academy – March 2026
-
----
-
 ## 🎯 Summary
 
 This project demonstrates:
